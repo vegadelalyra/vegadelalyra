@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript Frameworks, Django**
 
-- 📫 How to reach me **lyradeperseo@gmail.com**
+- 📫 How to reach me **danielvegagomez22@gmail.com**
 
 - ⚡ Fun fact **I love horror, science and rock!**
 
