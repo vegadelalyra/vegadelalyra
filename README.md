@@ -1,7 +1,9 @@
 <h1 align="center">Howdy👋, I'm Daniel Vega</h1>
 <h3 align="center">A passionate bilingual fullstack developer from Colombia</h3>
 
-- 🔭 I’m currently half-time working on [EOS BOOTCAMP](https://www.linkedin.com/company/eos-bootcamp/)
+- 🔭 I’m currently half-time working on [EOS BOOTCAMP](https://www.linkedin.com/company/eos-bootcamp/) as backend teacher (Django)
+
+- 🔭 I’m currently full-time working on [WOLDEV](https://woldev.co/) as full stack programmer
 
 - 🌱 I’m currently learning **Java, React Native, Unreal Engine**
 
